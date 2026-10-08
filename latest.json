@@ -1,10 +1,15 @@
 {
-  "version": "0.5.1",
-  "date": "2026-09-28",
-  "title": "前に作った本を守る仕組み",
-  "items": [
-    "前に作った本は、テンプレートが新しくなっても見た目が変わらなくなりました",
-    "新しい版を初めて起動したときに、本を自動でバックアップします"
-  ],
-  "url": "https://booth.pm/"
+  "version": "0.6.8",
+  "date": "2026-10-10",
+  "title": "公開初版",
+  "items": [],
+  "title_en": "First public release",
+  "items_en": [],
+  "title_ko": "첫 공개 버전",
+  "items_ko": [],
+  "title_zh-Hant": "首次公開版本",
+  "items_zh-Hant": [],
+  "title_zh-Hans": "首次公开版本",
+  "items_zh-Hans": [],
+  "url": "https://mitori-mimicria.github.io/#milleaf"
 }
