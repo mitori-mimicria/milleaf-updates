@@ -1,15 +1,15 @@
 {
   "version": "0.6.8",
   "date": "2026-10-10",
-  "title": "公開初版",
+  "title": "公開",
   "items": [],
-  "title_en": "First public release",
+  "title_en": "Released",
   "items_en": [],
-  "title_ko": "첫 공개 버전",
+  "title_ko": "공개",
   "items_ko": [],
-  "title_zh-Hant": "首次公開版本",
+  "title_zh-Hant": "公開",
   "items_zh-Hant": [],
-  "title_zh-Hans": "首次公开版本",
+  "title_zh-Hans": "公开",
   "items_zh-Hans": [],
   "url": "https://mitori-mimicria.github.io/#milleaf"
 }
