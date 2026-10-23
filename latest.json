@@ -1,15 +1,40 @@
 {
-  "version": "0.6.8",
-  "date": "2026-10-10",
-  "title": "公開",
-  "items": [],
-  "title_en": "Released",
-  "items_en": [],
-  "title_ko": "공개",
-  "items_ko": [],
-  "title_zh-Hant": "公開",
-  "items_zh-Hant": [],
-  "title_zh-Hans": "公开",
-  "items_zh-Hans": [],
+  "version": "0.7.0",
+  "date": "2026-10-24",
+  "title": "日付の書き方と、追加テンプレート第2弾",
+  "items": [
+    "VRChat用の本を、ワールドに置く形でも書き出せるようにしました（ページを押してめくる本と、手に持てる本）",
+    "飾りの素材を、フォルダやZIPからまとめて追加できるようにしました。中のフォルダごとに分けて並びます",
+    "日付の文字に「曜日つき」「時刻」「〇日目」「〇日」の書き方を足しました",
+    "追加テンプレート第2弾（絵日記、ふたりの記念日、誕生日・お祝い会、冬・クリスマス、もっとぎゅうぎゅう）を入れられます（別売）"
+  ],
+  "title_en": "Dates and the second set of add-on templates",
+  "items_en": [
+    "The VRChat book can now also be exported for worlds (a book you turn by pressing the pages, or one you can pick up)",
+    "You can now add decoration assets in bulk from a folder or ZIP. Images are grouped by the folders inside",
+    "Date text can now show the weekday, the time, \"Day N\" or \"N days\"",
+    "The second set of add-on templates (Picture Diary, The Two of Us, Birthday & Celebration, Winter & Christmas, Even More Packed) can be added (sold separately)"
+  ],
+  "title_ko": "날짜 표기와 추가 템플릿 제2탄",
+  "items_ko": [
+    "VRChat용 책을 월드에 놓는 형태로도 내보낼 수 있게 했습니다(페이지를 눌러 넘기는 책과 손에 들 수 있는 책)",
+    "장식 소재를 폴더나 ZIP에서 한꺼번에 추가할 수 있게 했습니다. 안의 폴더별로 나뉘어 표시됩니다",
+    "날짜 글자에 \"요일 포함\", \"시각\", \"N일째\", \"N일\" 표기를 추가했습니다",
+    "추가 템플릿 제2탄(그림일기, 우리 둘의 기념일, 생일·축하 모임, 겨울·크리스마스, 더 빽빽하게)을 넣을 수 있습니다(별매)"
+  ],
+  "title_zh-Hant": "日期寫法與第2彈追加範本",
+  "items_zh-Hant": [
+    "VRChat 用的書現在也能匯出成放在世界裡的形式（按頁面翻頁的書，以及可以拿在手上的書）",
+    "可以從資料夾或 ZIP 一次新增裝飾素材。會依其中的資料夾分組排列",
+    "日期文字新增「含星期」「時間」「第N天」「N天」的寫法",
+    "可以加入第2彈追加範本（圖畫日記、兩人的紀念日、生日・慶祝會、冬日・聖誕、更滿滿的）（另售）"
+  ],
+  "title_zh-Hans": "日期写法与第2弹追加模板",
+  "items_zh-Hans": [
+    "VRChat 用的书现在也能导出成放在世界里的形式（按页面翻页的书，以及可以拿在手上的书）",
+    "可以从文件夹或 ZIP 一次添加装饰素材。会按其中的文件夹分组排列",
+    "日期文字新增“含星期”“时间”“第N天”“N天”的写法",
+    "可以加入第2弹追加模板（图画日记、两人的纪念日、生日・庆祝会、冬日・圣诞、更满满的）（另售）"
+  ],
   "url": "https://mitori-mimicria.github.io/#milleaf"
 }
